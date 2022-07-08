@@ -12,9 +12,9 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>1.11</java.version>
-		<springboot-version>2.3.0.RELEASE</springboot-version>
-		<keycloak-version>10.0.1</keycloak-version>
+		<java.version>2.6.0</java.version>
+		<springboot-version>2.7.1</springboot-version>
+		<keycloak-version>18.0.2</keycloak-version>
 	</properties>
 
 	<dependencies>
