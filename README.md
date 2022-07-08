@@ -11,6 +11,6 @@
 
 https://medium.com/@ravthiru/rest-service-protected-using-keycloak-authorization-services-a6ad2d8ecb9f?source=friends_link&sk=668230df093786aa5fe180d89597f9f3
 
-**Keycloak locally docker instance
+ **Keycloak locally docker instance**
 
 docker run --name keycloak_test -v {$PATH_KEYCLOAK_DATA}/keycloak_data:/opt/keycloak/data/ -p 8080:8080 quay.io/keycloak/keycloak:latest start-dev 
