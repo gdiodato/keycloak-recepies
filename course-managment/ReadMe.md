@@ -50,7 +50,9 @@ course-management
 	Get Access Token before requesting Course REST API, 
 	You can use Postman for getting access token  from following url
 	
-	 http://localhost:8080/auth/realms/university/protocol/openid-connect/token
+	 ### http://localhost:8080/auth/realms/university/protocol/openid-connect/token  auth not supported yet!
+	 
+	 http://localhost:8080/realms/university/protocol/openid-connect/token
 	
 	
 	Get the course details  
