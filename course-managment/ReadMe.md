@@ -52,7 +52,7 @@ course-management
 	
 	 ### http://localhost:8080/auth/realms/university/protocol/openid-connect/token  auth not supported yet!
 	 
-	 http://localhost:8080/realms/university/protocol/openid-connect/token
+	 **http://localhost:8080/realms/university/protocol/openid-connect/token**
 	
 	
 	Get the course details  
